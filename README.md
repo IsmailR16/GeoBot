@@ -42,14 +42,6 @@ graph TD
 - **Session Memory**  
   Maintains context using browser sessionStorage
 
-## Installation
-
-### Requirements
-- Cloudflare account
-- OpenAI API key
-- OpenWeatherMap API key
-- ipinfo.io API token
-
 ## Technologies Used
 - 🛡️ Cloudflare Workers
 - 🧠 OpenAI GPT-3.5-turbo
