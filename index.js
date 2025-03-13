@@ -12,14 +12,7 @@ document.getElementById("form").addEventListener("submit", async function (event
     inputElement.value = "";
 
     if (!query) return;
-    //inputElement.focus();
-    // const formData = new FormData(event.target);
-    // const query = formData.get("user-input");
-    // event.target.reset();
 
-    // renderNewMessage(query, "user"); // Show user message in UI
-
-    // Add user message to history and UI
     chatHistory.push({ role: "user", content: query });
     renderNewMessage(query, "user");
 
