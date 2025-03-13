@@ -3,7 +3,7 @@
 A smart conversational AI assistant with weather forecasting and location awareness capabilities, powered by Cloudflare Workers and OpenAI.
 
 ## Try It Out! 🚀  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://geobot.pages.dev/)
+🔗 **Live Demo:** [Try It Here](https://geobot.pages.dev/)
 
 🔗 **Backend Repository:** [GeoBot Backend](https://github.com/IsmailR16/GeoBot-Backend) 
 
